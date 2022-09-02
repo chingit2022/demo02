@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo su
+yum update 
+yum install java-11
+yum install maven
+yum install git
