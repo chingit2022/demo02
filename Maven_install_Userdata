@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo su
-yum update 
-yum install java-11
-yum install maven
-yum install git
+yum update -y
+yum install java-11 -y
+yum install maven -y
+yum install git -y
