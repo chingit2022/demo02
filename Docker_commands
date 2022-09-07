@@ -4,6 +4,6 @@ To install docker
 To checked the images running  in docker
 - docker ps
 
-To run the container in the interactive mode (TO Enter inside the container)
-docker exec -it "CONATNER_ID" /bin/bash
+To run the container in the interactive mode (to Enter inside the container)
+docker exec -it "container_id" /bin/bash
 
