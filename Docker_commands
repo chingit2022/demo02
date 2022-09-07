@@ -1,0 +1,6 @@
+To install docker 
+- yum install docker 
+
+To checked the images running  in docker
+- docker ps
+
