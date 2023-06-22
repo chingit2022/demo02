@@ -16,5 +16,6 @@ This command is used to clone the repository
 - git push "repo_link"
 
 - git pull "repo_link"
+yes
 
 
